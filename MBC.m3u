@@ -1,0 +1,112 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="MBC 1 HD.sa" tvg-name="MBC 1" tvg-logo="https://i.ibb.co/rRwmJm8c/mbc-1.png" group-title="MBC",MBC 1
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-na/eec141533c90dd34722c503a296dd0d8/index.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264&video_height=144-720&video_codec=H264
+#EXTINF:-1 tvg-id="MBC Drama HD.sa" tvg-name="MBC DRAMA" tvg-logo="https://i.ibb.co/WNTgbyQH/mbc-drama.png" group-title="MBC",MBC DRAMA
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama/2c28a458e2f3253e678b07ac7d13fe71/index.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264&video_height=144-720&video_codec=H264
+#EXTINF:-1 tvg-id="MBC+ Drama HD.sa" tvg-name="MBC+ DRAMA" tvg-logo="https://i.ibb.co/ksc4ZS9j/mbc-plus-drama.png" group-title="MBC",MBC+ DRAMA
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-plus-drama/e37251ec2aac8f6c98f75cd0fa37cd28/index.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264&video_height=144-720&video_codec=H264
+#EXTINF:-1 tvg-name="MBC MASR DRAMA" tvg-logo="https://i.ibb.co/JWBzpr7B/mbc-maser-drama.png" group-title="MBC",MBC MASR DRAMA
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-drama/567b703c19ede6598222de81b0e4508b/index.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264&video_height=144-720&video_codec=H264
+#EXTINF:-1 tvg-id="MBCMasr.eg@SD" tvg-logo="https://i.imgur.com/o2elx0u.png" group-title=" PRIME TV | Egypt",MBC Masr
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr/956eac069c78a35d47245db6cdbb1575/index.m3u8
+#EXTINF:-1 tvg-id="MBC MASR 2.sa" tvg-name="MBC MASR 2" tvg-logo="https://i.ibb.co/HTNBsb3t/mbc-maser-2.png" group-title="MBC",MBC MASR 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-drm-license=e3ce77324a3d4fa2a913b26cc1976052:17774f82a3b9e33ea7a149596acbb20f
+https://shd-mediacdn-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/7eaa7c0393e9a9637ae311aac75eb40e/index.mpd
+#EXTINF:-1 tvg-name="MBC IRAQ" tvg-logo="https://i.ibb.co/4qHDJDR/mbc-iraq.png" group-title="MBC",MBC IRAQ
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/index.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264&video_height=144-720&video_codec=H264
+#EXTINF:-1 tvg-id="MBC 4 HD.sa" tvg-name="MBC 4" tvg-logo="https://i.ibb.co/RT3DcsRB/mbc-4.png" group-title="MBC",MBC 4
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264&video_height=144-720&video_codec=H264
+#EXTINF:-1 tvg-name="MBC 5" tvg-logo="https://i.ibb.co/KzSkvg6d/mbc-5.png" group-title="MBC",MBC 5
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8
+#EXTINF:-1 tvg-name="MBC 5" tvg-logo="https://hala-tv.com/images/hala_logo.png" group-title="MBC",قناة هلا
+https://gstream4.panet.co.il/edge/halaTV/chunks.m3u8
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=867c8d7670eab5e7aa10571830ad3d8c:030cf68626950b12145bc7147d6a9bda
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iBxXavb.png" group-title="قنوات ترفيهية",MBC+ eLife HD
+https://ev-fast-mpd.starzplayarabia.com/live/eds/MBC_Plus_eLife_HD/DASH/MBC_Plus_eLife_HD.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a458dbbe9cb445d92a27fb45cd371be7:b00f2e592b5bbade5beaa61e3aee7b32
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BupnNgB.png" group-title="قنوات ترفيهية",MBC+ Variety HD
+https://ev-fast-mpd.starzplayarabia.com/live/eds/MBC_Plus_Variety_HD/DASH/MBC_Plus_Variety_HD.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eca652b82b166e910e75150e0648ae32:587ed914c18ec18bc344769827ee7d96
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6HMluzv.png" group-title="قنوات ترفيهية",Rotana Khaleejiah HD
+https://ev-fast-mpd.starzplayarabia.com/live/eds/Rotana_Khaleejiah_HD/DASH/Rotana_Khaleejiah_HD.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9636650ce05533716e4e0971a4b38804:09b0d3d9b88d95a362f69c54aa8dfcbc
+#EXTINF:-1 tvg-logo="https://i.imgur.com/btnhPjZ.png" group-title="قنوات ترفيهية",Rotana Drama
+https://ev-fast-mpd.starzplayarabia.com/live/eds/Rotana_Drama/DASH/Rotana_Drama.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=72b4655222e48d75f814a6d009acfa6d:7bcce4a0e33c8d98548d5fbf0bc7922e
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IlT8U6S.png" group-title="قنوات ترفيهية",Rotana Comedy HD
+https://ev-fast-mpd.starzplayarabia.com/live/eds/Rotana_Comedy_HD/DASH/Rotana_Comedy_HD.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bce68ae0b214b322dfac26c0cb3decd2:2a3e76e41f224e04ec9f6a4e57273878
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pMMUvkt.png" group-title="قنوات ترفيهية",Rotana Classic HD
+https://ev-fast-mpd.starzplayarabia.com/live/eds/Rotana_Classic_HD/DASH/Rotana_Classic_HD.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a6c357b441bc90c4535d66fcd35cbd6a:8a8d316ff2b162e112882ac87c5b48f1
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pGgp38I.png" group-title="قنوات ترفيهية",Rotana Cinema HD
+https://ev-fast-mpd.starzplayarabia.com/live/eds/Rotana_Cinema_HD/DASH/Rotana_Cinema_HD.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=764abb7cfd045dad163aa8e6b625d608:10e428da491b6ea4baf357d42ed96c5c
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6sY6Dle.png" group-title="قنوات ترفيهية",Rotana Aflam +HD
+https://ev-fast-mpd.starzplayarabia.com/live/eds/AflamPlus_HD/DASH/AflamPlus_HD.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f571378781d0cbf463bb4c9cd4738b46:715272be9876f5cfe8bd178ab820e9c0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b1piasb.png" group-title="قنوات ترفيهية",Rotana + HD
+https://ev-fast-mpd.starzplayarabia.com/live/eds/Rotana_Plus_HD/DASH/Rotana_Plus_HD.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8818c4127d4462151b622871eea7cc50:276bdf11890583b3b879caa7f23c77da
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cYxM38A.png" group-title="قنوات ترفيهية",Rotana Mousica HD
+https://ev-fast-mpd.starzplayarabia.com/live/eds/Rotana_Mousica_HD/DASH/Rotana_Mousica_HD.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2d3be67fbdc485cc562bb26fe0634bf6:dea29eb539dc112052493aa531cf2e7a
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://i.imgur.com/49NB4ZU.png" group-title="قنوات ترفيهية",Rotana Clip HD
+https://ev-fast-mpd.starzplayarabia.com/live/eds/Rotana_Clip/DASH/Rotana_Clip.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9334f3649435cb3f99b6113421cc7386:41f9decd3816653ff6f3dc184f90ef72
+#EXTINF:-1 tvg-logo="https://i.imgur.com/whyZXzW.png" group-title="قنوات ترفيهية",LBC HD
+https://ev-fast-mpd.starzplayarabia.com/live/eds/LBC_Sat_HD/DASH/LBC_Sat_HD.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5691356eb6f4233db94e7d1369fbdf3b:03bb9ffa4678d29aa1ba5f9f1ea97129
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZYWVTD3.png" group-title="قنوات ترفيهية",M Plus HD
+https://ev-fast-mpd.starzplayarabia.com/live/eds/MPlus_HD/DASH/MPlus_HD.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=de251661d5c7b72a3e2bb68f9d02610e:4f1b7a4f0241d3fd2e4b80f6a4246b29
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1agVj8T.png" group-title="قنوات ترفيهية",Aghani
+https://ev-fast-mpd.starzplayarabia.com/live/eds/Aghani_Aghani/DASH/Aghani_Aghani.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nDhATmi.jpg" group-title="قنوات ترفيهية",Asharq Documentary 
+https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=90393b8adb2b2d641012ebf5ae0dd703:f01d0e9c12a92e0774fdc05ed91e2933
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/ktv-1-kw.png" group-title="قنوات ترفيهية",Kuwait TV HD
+https://ev-fast-mpd.starzplayarabia.com/live/eds/KuwaitTV_HD/DASH/KuwaitTV_HD.mpd
+#EXTINF:-1 tvg-logo="hhttps://www.dubaitv.ae/content/dam/dubaitv/icons/dubai-tv.jpg" group-title="قنوات ترفيهية",Dubai_TV
+http://185.9.2.18/chid_139/index.m3u8
+
