@@ -1,14 +1,14 @@
 #EXTINF:-1 tvg-id="" tvg-name="قرإن الكريم" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrugKiVmcCg-dwVYlfYEYNwIjmrBEAdHBsPmlC5Vqz5w&s=10",group-title="قرإن الكريم ",قرإن الكريم
-https://raw.githubusercontent.com/raid35/channel-links/main/quran.m3u
+https://raw.githubusercontent.com/raid35/Arab/main/quran.m3u
 
 #EXTINF:-1 tvg-id="MBC " tvg-name="4K " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThVHWNa3Ga-G1lSR7d6IW1bkycE9M5rMRQ2V1hFt3PXjtfYhQsruUA0Vw-&s=10" group-title="4K", 4K
 https://raw.githubusercontent.com/siksa40/xPola-Player/main/4K.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="ALGERIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXl0VxgKj5P_YyoJ8limOdPwgVdJBH9fOn6h1JjTNDVQ&s=10",group-title="ALGERIA", ALGERIA
-https://raw.githubusercontent.com/raid35/channel-links/main/ALGERIA.m3u
+https://raw.githubusercontent.com/raid35/Arab/main/ALGERIA.m3u
 
 #EXTINF:-1 tvg-id="MBC شاهد" tvg-name="MBC شاهد" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDpXFiSv50Xj79dp6L_1qh17eMjx61iBX1LqHLswJSiJWAfyH5xerkjUkc&s=10",group-title="MBC شاهد", MBC شاهد
-https://raw.githubusercontent.com/siksa40/Siksa-Player/main/mbc_shahid.m3u
+https://raw.githubusercontent.com/raid35/Arab/main/mbc_shahid.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="قنوات الأفلم"  tvg-logo="https://a.top4top.io/p_3879b6qm41.jpg",group-title="قنوات الأفلم",قنوات الأفلم 
 https://raw.githubusercontent.com/raid35/docs/main/Ray_dz.m3u
@@ -17,7 +17,7 @@ https://raw.githubusercontent.com/raid35/docs/main/Ray_dz.m3u
 https://raw.githubusercontent.com/siksa40/xPola-Player/main/MUSIC.m3u
 
 #EXTINF:-1 tvg-id="MBC " tvg-name="MBC " tvg-logo="https://i.top4top.io/p_3741rpnwy1.png" group-title="MBC", MBC
-https://raw.githubusercontent.com/siksa40/xPola-Player/main/MBC.m3u
+https://raw.githubusercontent.com/raid35/Arab/main/MBC.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="|VIP| Bein Sport" tvg-logo="https://h.top4top.io/p_37494dcdl1.png", group-title="|VIP| Bein Sport", |VIP| Bein Sport
 https://raw.githubusercontent.com/siksa40/Siksa-Player/main/Bein_CONACT.m3u
@@ -104,13 +104,13 @@ https://raw.githubusercontent.com/siksa40/xPola-Player/main/ostora.m3u
 https://raw.githubusercontent.com/siksa40/xPola-Player/main/MYHD.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="STC TV" tvg-logo="http://tv.asc.vg/stc.family.stc.png",group-title="STC TV", STC TV
-https://raw.githubusercontent.com/siksa40/xPola-Player/main/stc.family.m3u
+https://raw.githubusercontent.com/raid35/Arab/main/stc.family.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="BEIN Entertainment" tvg-logo="https://i.ibb.co/z2nRPPx/BEIN-ENTER.png",group-title="BEIN Entertainment", BEIN Entertainment
-https://raw.githubusercontent.com/siksa40/xPola-Player/main/novaler-Bein-Mov.m3u8
+https://raw.githubusercontent.com/raid35/Arab/main/novaler-Bein-Mov.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="OSN" tvg-logo="https://play-lh.googleusercontent.com/IwQZ9I3BnYQVEIqJE5tUfSzd-hDhAO_5ekKNirQVOyDNsDB_QUgY5wz0FHrsgXM-iSE=w240-h480-rw",group-title="OSN", OSN
-https://raw.githubusercontent.com/siksa40/xPola-Player/main/nov-osn.m3u
+https://raw.githubusercontent.com/raid35/Arab/main/nov-osn.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="|VIP| FRANCE" tvg-logo="https://i.postimg.cc/YC20qHYs/canal.png ",group-title="|VIP| FRANCE", |VIP| FRANCE
 https://raw.githubusercontent.com/raid35/docs/main/France_vip.m3u
