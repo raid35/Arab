@@ -10,11 +10,7 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-drama/567b703c19ede6
 #EXTINF:-1 tvg-id="MBCMasr.eg@SD" tvg-logo="https://i.imgur.com/o2elx0u.png" group-title=" PRIME TV | Egypt",MBC Masr
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr/956eac069c78a35d47245db6cdbb1575/index.m3u8
 #EXTINF:-1 tvg-id="MBC MASR 2.sa" tvg-name="MBC MASR 2" tvg-logo="https://i.ibb.co/HTNBsb3t/mbc-maser-2.png" group-title="MBC",MBC MASR 2
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-drm-license=e3ce77324a3d4fa2a913b26cc1976052:17774f82a3b9e33ea7a149596acbb20f
-https://shd-mediacdn-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/7eaa7c0393e9a9637ae311aac75eb40e/index.mpd
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
 #EXTINF:-1 tvg-name="MBC IRAQ" tvg-logo="https://i.ibb.co/4qHDJDR/mbc-iraq.png" group-title="MBC",MBC IRAQ
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/index.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264&video_height=144-720&video_codec=H264
 #EXTINF:-1 tvg-id="MBC 4 HD.sa" tvg-name="MBC 4" tvg-logo="https://i.ibb.co/RT3DcsRB/mbc-4.png" group-title="MBC",MBC 4
