@@ -7,20 +7,20 @@ https://raw.githubusercontent.com/raid35/bein/main/4K.m3u
 #EXTINF:-1 tvg-id="" tvg-name="ALGERIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXl0VxgKj5P_YyoJ8limOdPwgVdJBH9fOn6h1JjTNDVQ&s=10",group-title="ALGERIA", ALGERIA
 https://raw.githubusercontent.com/raid35/Arab/main/ALGERIA.m3u
 
-#EXTINF:-1 tvg-logo="https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/HGTV_264_Color.png" group-title="STC DOC",|VIP| STC DOC
-https://raw.githubusercontent.com/raid35/Arab/main/STC_DOC
+#EXTINF:-1 tvg-id="MBC " tvg-name="STCtv MBC " tvg-logo="https://i.top4top.io/p_3741rpnwy1.png" group-title="STCtv MBC", STCtv MBC
+https://raw.githubusercontent.com/raid35/Arab/main/MBC.m3u
 
 #EXTINF:-1 tvg-id="MBC شاهد" tvg-name="MBC شاهد" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDpXFiSv50Xj79dp6L_1qh17eMjx61iBX1LqHLswJSiJWAfyH5xerkjUkc&s=10",group-title="MBC شاهد", MBC شاهد
 https://raw.githubusercontent.com/raid35/Arab/main/mbc_shahid.m3u
 
+#EXTINF:-1 tvg-logo="https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/HGTV_264_Color.png" group-title="STCtv DOC",|VIP| STCtv DOC
+https://raw.githubusercontent.com/raid35/Arab/main/STC_DOC
+
 #EXTINF:-1 tvg-id="" tvg-name="قنوات الأفلم"  tvg-logo="https://a.top4top.io/p_3879b6qm41.jpg",group-title="قنوات الأفلم",قنوات الأفلم 
-https://raw.githubusercontent.com/raid35/docs/main/Ray_dz.m3u
+https://raw.githubusercontent.com/raid35/Arab/main/chan_film.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="MUSIC" tvg-logo="https://j.top4top.io/p_3741nas731.jpg",group-title="MUSIC", MUSIC
 https://raw.githubusercontent.com/siksa40/xPola-Player/main/MUSIC.m3u
-
-#EXTINF:-1 tvg-id="MBC " tvg-name="MBC " tvg-logo="https://i.top4top.io/p_3741rpnwy1.png" group-title="MBC", MBC
-https://raw.githubusercontent.com/raid35/Arab/main/MBC.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="|VIP| Bein Sport" tvg-logo="https://h.top4top.io/p_37494dcdl1.png", group-title="|VIP| Bein Sport", |VIP| Bein Sport
 https://raw.githubusercontent.com/raid35/bein/main/Bein_vip.m3u
