@@ -1,0 +1,40 @@
+#EXTINF:-1 tvg-logo="https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/STCD_264_Color.png" group-title="STC TV ©",STCtv Drama HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4307d51136956e78dd17fe4884ba66d1:e81223c66a46efacd95b83c9ebbb8c1c
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/STCD_HEVC/wv-pr/manifest.mpd
+#EXTINF:-1 tvg-logo="https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/STCC_264_Color.png" group-title="STC TV ©",STCtv Cinema HD 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=27941c358897e06211225526fd7d7a64:386f6b34cd5f1a8b27696fd58ed35613
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/STCC_HEVC/wv-pr/manifest.mpd
+#EXTINF:-1 tvg-logo="https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/STCF_264_Color.png" group-title="STC TV ©",STCtv Family HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5b743d2a372f811f09c7fa55b9f842df:c5a1e1a129825f6cf52521c5217126a4
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/STCF_HEVC/wv-pr/manifest.mpd
+#EXTINF:-1 tvg-logo="https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/FMA_264_Color.png" group-title="STC TV ©",Star Action HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=230af93fc61c0c170067c9d1b6538402:49a9bf0cfba1cb4e52de3d458f6fb3a2
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/FMA_HEVC/wv-pr/manifest.mpd
+#EXTINF:-1 tvg-logo="https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/STM_264_Color.png" group-title="STC TV ©",Star Movies HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4b7a662d7132679630f3a3f1862a859c:0651bc37e705349a2848278ae3ad7bf4
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/STM_HEVC/wv-pr/manifest.mpd
+#EXTINF:-1 tvg-logo="https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/STW_264_Color.png" group-title="STC TV ©",Star World HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=19cf49b59d662baf0359682aa503749f:af573556d33ef2f094b98c7d22e9ffce
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/STW_HEVC/wv-pr/manifest.mpd
+#EXTINF:-1 tvg-logo="https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/MBV_264_Color.png" group-title="STC TV ©",STCtv MBC V HD 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e5af533daeb9c443a78888ac6b2a2eb4:43ab3a679a943a11877cb219d2b7239c
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/MBV_HEVC/wv-pr/manifest.mpd
+#EXTINF:-1 tvg-logo="https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/MB2H_264_Color.png" group-title="STC TV ©",STCtv MBC 2 HD 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=baa1907a284502eabc320d77051c575c:58fa20cf6055f3aefc15707992c0b685
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/MB2H_HEVC/wv-pr/manifest.mpd
+#EXTINF:-1 tvg-logo="https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/MBMH_264_Color.png" group-title="STC TV ©",STCtv MBC MAX HD 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0a414b719bade2acc124e22c042290f3:db84a5afa10a001dd73b094c14638212
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/MBMH_HEVC/wv-pr/manifest.mpd
+#EXTINF:-1 tvg-logo="https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/DBO_264_Color.png" group-title="STC TV ©",STCtv DU ONE 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ab96aca699762f6402588eafe321a975:345f243b66226e22c7637b0050930b18
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/DBO_HEVC/wv-pr/manifest.mpd
