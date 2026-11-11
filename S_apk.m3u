@@ -14,6 +14,9 @@ https://raw.githubusercontent.com/raid35/Arab/main/MBC.m3u
 https://raw.githubusercontent.com/raid35/Arab/main/mbc_shahid.m3u
 
 #EXTINF:-1 tvg-logo="https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/HGTV_264_Color.png" group-title="STCtv DOC",|VIP| STCtv DOC
+https://raw.githubusercontent.com/raid35/Arab/main/ART.m3u
+
+#EXTINF:-1 tvg-logo="https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/HGTV_264_Color.png" group-title="STCtv DOC",|VIP| STCtv DOC
 https://raw.githubusercontent.com/raid35/Arab/main/STC_DOC
 
 #EXTINF:-1 tvg-id="" tvg-name="قنوات الأفلم"  tvg-logo="https://a.top4top.io/p_3879b6qm41.jpg",group-title="قنوات الأفلم",قنوات الأفلم 
