@@ -13,7 +13,7 @@ https://raw.githubusercontent.com/raid35/Arab/main/MBC.m3u
 #EXTINF:-1 tvg-id="MBC شاهد" tvg-name="MBC شاهد" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDpXFiSv50Xj79dp6L_1qh17eMjx61iBX1LqHLswJSiJWAfyH5xerkjUkc&s=10",group-title="MBC شاهد", MBC شاهد
 https://raw.githubusercontent.com/raid35/Arab/main/mbc_shahid.m3u
 
-#EXTINF:-1 tvg-logo="https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/HGTV_264_Color.png" group-title="STCtv DOC",|VIP| STCtv DOC
+#EXTINF:-1 tvg-logo="https://kgn8e7pxwwfp.merlincdn.net/content/N/W4/273207/logo_50.png" group-title="STCtv ART",|VIP| STCtv ART
 https://raw.githubusercontent.com/raid35/Arab/main/ART.m3u
 
 #EXTINF:-1 tvg-logo="https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/HGTV_264_Color.png" group-title="STCtv DOC",|VIP| STCtv DOC
