@@ -22,6 +22,10 @@ https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/STM_HEVC/wv-pr/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=19cf49b59d662baf0359682aa503749f:af573556d33ef2f094b98c7d22e9ffce
 https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/STW_HEVC/wv-pr/manifest.mpd
+#EXTINF:-1 tvg-id="MBC شاهد" tvg-name="MBC شاهد" tvg-logo="https://shahid.mbc.net/mediaObject/d7354fd2-4d5e-4e0e-93e1-8e759b29b892?width=144&version=1&type=avif&q=80",group-title="MBC شاهد", MBC شاهد
+https://shd-amg-fast.edgenextcdn.net/tx011/1080p-d/index.m3u8
+#EXTINF:-1 tvg-id="MBC شاهد" tvg-name="MBC شاهد" tvg-logo="https://shahid.mbc.net/mediaObject/06e1a853-795b-4b01-b1fd-baed5df7969c?width=144&version=1&type=avif&q=80",group-title="MBC شاهد", MBC شاهد
+https://shd-amg-fast.edgenextcdn.net/tx001/1080p-d/index.m3u
 #EXTINF:-1 tvg-logo="https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/MBV_264_Color.png" group-title="STC TV ©",STCtv MBC V HD 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e5af533daeb9c443a78888ac6b2a2eb4:43ab3a679a943a11877cb219d2b7239c
