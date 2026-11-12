@@ -1,0 +1,40 @@
+#EXTINF:-1 tvg-logo="https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/ARAH_264_Color.png" group-title="STC TV ©",STCtv AL ARABIYAH 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ef1ff7d343a5b0394faed9ded0b25dec:16357a06cde91670c0b46c0e2498f0d2
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/ARAH_HEVC/wv-pr/manifest.mpd
+#EXTINF:-1 tvg-logo="https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/KSA_264_Color.png" group-title="STC TV ©",STCtv KSA NEWS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8c85721a7f9341b34c20577f4a05521a:16bd07488ada6549b1d857fd923c7ca1
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/KSA_HEVC/wv-pr/manifest.mpd
+#EXTINF:-1 tvg-logo="https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/AAH_264_Color.png" group-title="STC TV ©",STCtv AL ARABIYAH HADTH
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6584d2f0fecbcf9c324ec9d65556bdc4:92a84ec97e2e18ebdb05e57914064534
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/AAH_HEVC/wv-pr/manifest.mpd
+#EXTINF:-1 tvg-logo="https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/BBCA_264_Color.png" group-title="STC TV ©",STCtv BBC AR
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ddef53518a0cfd8111da5c87783e10af:b03acb31c3b82f1667609f497e1dbb2d
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/BBCA_HEVC/wv-pr/manifest.mpd
+#EXTINF:-1 tvg-logo="https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/SNA_264_Color.png" group-title="STC TV ©",STCtv SKY NEWS ARA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=104dc407e6353d73f825769fdeed5aa4:7e2ffea4c902532b5de3edeb80a352ec
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/SNA_HEVC/wv-pr/manifest.mpd
+#EXTINF:-1 tvg-logo="https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/ASH_264_Color.png" group-title="STC TV ©",STCtv ASHRQ
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8954f60eb1393af51355d03b6289654a:8184a1a2051aef5e6c25b3acce968d0a
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/ASH_HEVC/wv-pr/manifest.mpd
+#EXTINF:-1 tvg-logo="https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/24U1_264_Color.png" group-title="STC TV ©",STCtv FR 24
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=503af826bacd876454092c8a6894e309:78cd2c5f000d70e7a877eee9e57d8c94
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/24U1_HEVC/wv-pr/manifest.mpd
+#EXTINF:-1 tvg-logo="https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/CNBA_264_Color.png" group-title="STC TV ©",STCtv CNBC AR
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7563546f2eb5853a2080b036ce329dff:fcaeac4e91c1ecf1ba7f71d7e45a54c1
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/CNBA_HEVC/wv-pr/manifest.mpd
+#EXTINF:-1 tvg-logo="https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/MAM_264_Color.png" group-title="STC TV ©",STCtv ALMAMLKHAH
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f0424928a6042dba4e0fc320994e44e4:1dfd658db4f9c9cf2b15c7a586990c43
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/MAM_HEVC/wv-pr/manifest.mpd
+#EXTINF:-1 tvg-logo="https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/RTA_264_Color.png" group-title="STC TV ©",STCtv RT AR
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=123eb2912ba5edd8350f62565ecf3178:085d25cd89a6f517732a3b9f07b7de5a
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/RTA_HEVC/wv-pr/manifest.mpd
