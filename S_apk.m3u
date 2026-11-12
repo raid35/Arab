@@ -112,7 +112,7 @@ https://raw.githubusercontent.com/raid35/bein/main/MYHD.m3u
 #EXTINF:-1 tvg-id="" tvg-name="STC TV" tvg-logo="http://tv.asc.vg/stc.family.stc.png",group-title="STC TV", STC TV
 https://raw.githubusercontent.com/raid35/Arab/main/stc.family.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="BEIN Entertainment" tvg-logo="https://i.ibb.co/z2nRPPx/BEIN-ENTER.png",group-title="BEIN Entertainment", OSN BEIN Entertainment
+#EXTINF:-1 tvg-id="" tvg-name="OSN BEIN Entertainment" tvg-logo="https://i.ibb.co/z2nRPPx/BEIN-ENTER.png",group-title="OSN BEIN Entertainment", OSN BEIN Entertainment
 https://raw.githubusercontent.com/raid35/Arab/main/novaler-Bein-Mov.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="OSN" tvg-logo="https://play-lh.googleusercontent.com/IwQZ9I3BnYQVEIqJE5tUfSzd-hDhAO_5ekKNirQVOyDNsDB_QUgY5wz0FHrsgXM-iSE=w240-h480-rw",group-title="OSN", OSN
