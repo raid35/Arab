@@ -1,3 +1,6 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="DZ | AL24 NEWS " tvg-logo="https://i5.satexpat.com/cha/dz/AL24-News-95x62.gif" group-title="ALGERIA |A| ",DZ | AL24 NEWS
+https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/ARAH_264_Color.png" group-title="STC TV ©",STCtv AL ARABIYAH 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ef1ff7d343a5b0394faed9ded0b25dec:16357a06cde91670c0b46c0e2498f0d2
