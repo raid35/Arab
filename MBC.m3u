@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/MBMOD_264_Color.png" group-title="STC TV ©",STCtv MBC MOOD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=802e395111b77ed1f322fd0cee6dc58a:c5752ab4c89d8658277750a54ba57209
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/MBMOD_HEVC/wv-pr/manifest.mpd
 #EXTINF:-1 tvg-logo="https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/MB1_264_Color.png" group-title="STC TV ©",STCtv MBC 1 HD 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bb122edd125fadeb6c01deb3cfe16d1d:9d74a531df6f2cedda02b6c9f564d39a
