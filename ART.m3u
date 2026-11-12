@@ -20,3 +20,39 @@ https://ev-fast-mpd.starzplayarabia.com/live/eds/ART_Hekayat_2/DASH/ART_Hekayat_
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bd484fc91dcf152010a0e367e15ab60e:d9bed0a77b7da410129820bcc6606670
 https://ev-fast-mpd.starzplayarabia.com/live/eds/ART_Cinema/DASH/ART_Cinema.mpd
+#EXTINF:-1 tvg-logo="https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/ROTP_264_Color.png" group-title="STC TV ©",STCtv Rotana PLUS HD 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a5c68634296f78f98dc51695f41926af:bc9b482e1188d3f5e702c49fcd598615
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/ROTP_HEVC/wv-pr/manifest.mpd
+#EXTINF:-1 tvg-logo="https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/ROTD_264_Color.png" group-title="STC TV ©",STCtv CINEMA DRAMA HD 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9a5b1526dfcde755556044faed10009a:8ac2555f230e92cd5bb79eb984710e19
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/ROTD_HEVC/wv-pr/manifest.mpd
+#EXTINF:-1 tvg-logo="https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/ROTK_264_Color.png" group-title="STC TV SPORT ©",STCtv Rotana K HD 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ce4e01ce30988babcc4ed18ceeef01bc:a5c1b40cae897024745e56343cf43b50
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/ROTK_HEVC/wv-pr/manifest.mpd
+#EXTINF:-1 tvg-logo="https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/ROTCM_264_Color.png" group-title="STC TV ©",STCtv Rotana CINEMA MSR HD 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3681ebddd4d011f323310b47bb1e845c:932ba3a0ad67d2ff4ff607e939f562cc
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/ROTCM_HEVC/wv-pr/manifest.mpd
+#EXTINF:-1 tvg-logo="https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/ROTCK_264_Color.png" group-title="STC TV ©",STCtv Rotana CINEMA KSA HD 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=28d6e48b26bccaa8031dd2325ad75d4d:fc6013bcf409865329e2bd44cf1010cf
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/ROTCK_HEVC/wv-pr/manifest.mpd
+#EXTINF:-1 tvg-logo="https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/ROTCU_264_Color.png" group-title="STC TV ©",STCtv Rotana CINEMA US HD 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f9c253bf54bbdf0a6d1c648f8c2f3612:5bf4a3ebcffc6115abf82312707f28ae
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/ROTCU_HEVC/wv-pr/manifest.mpd
+#EXTINF:-1 tvg-logo="https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/ROTFP_264_Color.png" group-title="STC TV ©",STCtv Rotana AFLAM HD 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6cd2422a351538fe9ef93054e276b664:f5e9d2504dd86d6d180837b8efee6929
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/ROTFP_HEVC/wv-pr/manifest.mpd
+#EXTINF:-1 tvg-logo="https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/ROTF_264_Color.png" group-title="STC TV ©",STCtv Rotana COMEDY HD 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=80dde71510c8e2b92f073c794b1fcc4c:3efe719fbbfd197ef9b77638719d4ab7
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/ROTF_HEVC/wv-pr/manifest.mpd
+#EXTINF:-1 tvg-logo="https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/ROTZ_264_Color.png" group-title="STC TV ©",STCtv Rotana CLASSIC HD 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c3b50db52999b0b5b90653812a13a66b:302c1d641a38a8f30b4fda466d70acc2
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/ROTZ_HEVC/wv-pr/manifest.mpd
