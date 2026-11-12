@@ -33,6 +33,8 @@ https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/MBV_HEVC/wv-pr/manifest.mpd
 https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/MB4H_HEVC/wv-pr/manifest.mpd
 #EXTINF:-1 tvg-name="MBC 5" tvg-logo="https://i.ibb.co/KzSkvg6d/mbc-5.png" group-title="MBC",MBC 5
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.github.com/ALMehdaly/picon/TV/mbcmood.png" group-title="MBC-SHAHID",MBC MOOD  FHD
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-mood/78367bf48ccdba501d0d014a10c21031/index.m3u8?aws.manifestfilter=video_codec:H264&video_height=1080&video_codec=H264
 #EXTINF:-1 tvg-name="MBC 5" tvg-logo="https://hala-tv.com/images/hala_logo.png" group-title="MBC",قناة هلا
 https://gstream4.panet.co.il/edge/halaTV/chunks.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
