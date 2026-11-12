@@ -112,11 +112,11 @@ https://raw.githubusercontent.com/raid35/bein/main/MYHD.m3u
 #EXTINF:-1 tvg-id="" tvg-name="STC TV" tvg-logo="http://tv.asc.vg/stc.family.stc.png",group-title="STC TV", STC TV
 https://raw.githubusercontent.com/raid35/Arab/main/stc.family.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="BEIN Entertainment" tvg-logo="https://i.ibb.co/z2nRPPx/BEIN-ENTER.png",group-title="BEIN Entertainment", BEIN Entertainment
+#EXTINF:-1 tvg-id="" tvg-name="BEIN Entertainment" tvg-logo="https://i.ibb.co/z2nRPPx/BEIN-ENTER.png",group-title="BEIN Entertainment", OSN BEIN Entertainment
 https://raw.githubusercontent.com/raid35/Arab/main/novaler-Bein-Mov.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="OSN" tvg-logo="https://play-lh.googleusercontent.com/IwQZ9I3BnYQVEIqJE5tUfSzd-hDhAO_5ekKNirQVOyDNsDB_QUgY5wz0FHrsgXM-iSE=w240-h480-rw",group-title="OSN", OSN
-https://raw.githubusercontent.com/raid35/Arab/main/nov-osn.m3u
+https://raw.githubusercontent.com/ALMehdaly/playlist/refs/heads/TV/StarzPlay
 
 #EXTINF:-1 tvg-id="" tvg-name="|VIP| FRANCE" tvg-logo="https://i.postimg.cc/YC20qHYs/canal.png ",group-title="|VIP| FRANCE", |VIP| FRANCE
 https://raw.githubusercontent.com/raid35/myCANAL/main/VIP_fr
@@ -128,7 +128,7 @@ https://raw.githubusercontent.com/raid35/myCANAL/main/myCANAL_CINEMA.m3u
 https://raw.githubusercontent.com/raid35/myCANAL/main/TNT.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="|FR| CANALPLAY A LA CARTE " tvg-logo="https://i.postimg.cc/YC20qHYs/canal.png ",group-title="|FR| CANALPLAY A LA CARTE ", |FR| CANALPLAY A LA CARTE 
-https://raw.githubusercontent.com/ALMehdaly/playlist/refs/heads/TV/SHAHID
+https://raw.githubusercontent.com/ALMehdaly/playlist/refs/heads/TV/STCtv
 
 #EXTINF:-1 tvg-id="" tvg-name="|FR| myCANAL DUCUMENTAIRE" tvg-logo="https://i.postimg.cc/YC20qHYs/canal.png ",group-title="|FR| myCANAL DUCUMENTAIRE", |FR| myCANAL DUCUMENTAIRE
 https://raw.githubusercontent.com/raid35/myCANAL/main/Docs-fr.m3u
