@@ -26,10 +26,6 @@ https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/DMCSD_HEVC/wv-pr/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bbe52bf1e9dedfb41ec620eee7455c93:7c005ea4fa236bfb9fd5f97336feb637
 https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/CBD_HEVC/wv-pr/manifest.mpd
-#EXTINF:-1 tvg-logo="https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/NAD_264_Color.png" group-title="STC TV ©",STCtv NAHAR DRAMA
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f6204e4d7aa3538fded62be8c04ad0c7:0d6e44ff40173c6de135c4544d6cb888
-https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/NAD_HEVC/wv-pr/manifest.mpd
 #EXTINF:-1 tvg-logo="https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/KWN1_264_Color.png" group-title="STC TV ©",STCtv KWN 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c39999cf99e9762dcb191583d283feb0:dc8834f755892cf9a53b29f7a2ec2c69
@@ -42,12 +38,10 @@ https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/KWN2_HEVC/wv-pr/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f4794baa32463d3d0ad99360aacf9231:299f313b4f73d19551f5c0eb399b8c31
 https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/MSY_HEVC/wv-pr/manifest.mpd
- 
 #EXTINF:-1 tvg-logo="https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/AH1_264_Color.png" group-title="STC TV ©",STCtv ALHAYAH TV 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=aad33a029c39e70a58600b54ae5b8dee:24ea749523d73b7a087ba61c16568f4b
 https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/AH1_HEVC/wv-pr/manifest.mpd
-
 #EXTINF:-1 tvg-logo="https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/AHMS_264_Color.png" group-title="STC TV ©",STCtv Al Hayat Musalsalat
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=73d3dff2ef20bb59eb1866f66302ec40:814986dad038af716562aaf39849d390
@@ -65,10 +59,10 @@ https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/CBC_HEVC/wv-pr/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=24380f71951eadb796c765c8656d21c5:34995f4f4bd0fe2593246be6d590e5f7
 https://ev-fuj-dxb-cdn-edge2.aws.playco.com/live/eds/Al_Nahar_TV/DASH/Al_Nahar_TV.mpd
-#EXTINF:-1  tvg-logo="https://kgn8e7pxwwfp.merlincdn.net/content/N/W4/273207/logo_50.png" group-title="Mobily Tv ©" ,Al_Nahar_Drama
+#EXTINF:-1 tvg-logo="https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/NAD_264_Color.png" group-title="STC TV ©",STCtv NAHAR DRAMA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=797bd0f0f0000bd157c6c00b2b31c205:eb65c6930a26ca68a31c4e35a4af03f7
-https://ev-fuj-dxb-cdn-edge2.aws.playco.com/live/eds/Al_Nahar_Drama/DASH/Al_Nahar_Drama.mpd 
+#KODIPROP:inputstream.adaptive.license_key=f6204e4d7aa3538fded62be8c04ad0c7:0d6e44ff40173c6de135c4544d6cb888
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/NAD_HEVC/wv-pr/manifest.mpd 
 #EXTINF:-1 tvg-logo="https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/TEN_264_Color.png" group-title="STC TV ©",STCtv TEN TV 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=15448afa3aefa9e1a6b8342a1c83eb2a:70fe8d1487e639ae3dac4964b4e858b1
