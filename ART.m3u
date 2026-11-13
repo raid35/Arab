@@ -56,3 +56,24 @@ https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/ROTF_HEVC/wv-pr/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c3b50db52999b0b5b90653812a13a66b:302c1d641a38a8f30b4fda466d70acc2
 https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/ROTZ_HEVC/wv-pr/manifest.mpd
+#EXTINF:-1 tvg-logo="https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/ROTMP_264_Color.png" group-title="STC TV ©",STCtv ROTANA M+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2d743d4e39617f002e8033a6a55e841d:70d57d4ff64953eb1823f68229c41b8c
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/ROTMP_HEVC/wv-pr/manifest.mpd
+#EXTINF:-1 tvg-logo="https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/ROTS_264_Color.png" group-title="STC TV ©",STCtv ROTANA MUSIC
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fb2af6f98931c04b31a5ae79e39d83e1:0543fa0ae14498726a4f79e13c697f80
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/ROTS_HEVC/wv-pr/manifest.mpd
+#EXTINF:-1 tvg-logo="https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/ROTCL_264_Color.png" group-title="STC TV ©",STCtv ROTANA CLIP
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=082e7f89ac809010493f4c06aa8c7683:76f89bbf9cf00ecd50338884159da480
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/ROTCL_HEVC/wv-pr/manifest.mpd
+#EXTINF:-1 tvg-logo="https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/MAZZ_264_Color.png" group-title="STC TV ©",STCtv MAZZIK 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9116f45637041d94206c623e80abbbc4:9bf45a7830b54f67633b9480a5465ddb
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/MAZZ_HEVC/wv-pr/manifest.mpd
+#EXTINF:-1 tvg-logo="https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/OTV_264_Color.png" group-title="STC TV ©",STCtv ONE TV 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e9b609825941a90a7f684e85f1506d03:714b1c189eb5f86577707a7d1ab733e5
+https://fastlyrwb-live.cdn.intigral-ott.net/bpk-tv/OTV_HEVC/wv-pr/manifest.mpd
+
