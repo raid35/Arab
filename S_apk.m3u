@@ -7,6 +7,9 @@ https://raw.githubusercontent.com/raid35/bein/main/4K.m3u
 #EXTINF:-1 tvg-id="" tvg-name="ALGERIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXl0VxgKj5P_YyoJ8limOdPwgVdJBH9fOn6h1JjTNDVQ&s=10",group-title="ALGERIA", ALGERIA
 https://raw.githubusercontent.com/raid35/Arab/main/ALGERIA.m3u
 
+#EXTINF:-1 tvg-id="EYGEPT " tvg-name="STCtv EYGEPT " tvg-logo="https://mpx-assets.intigral-ott.net/popcorn/images/channels/v3/logos/default/ONE_264_Color.png" group-title="STCtv EYGEPT", STCtv EYGEPT
+https://raw.githubusercontent.com/raid35/Arab/main/EYGEPT
+
 #EXTINF:-1 tvg-id="MBC " tvg-name="STCtv MBC " tvg-logo="https://i.top4top.io/p_3741rpnwy1.png" group-title="STCtv MBC", STCtv MBC
 https://raw.githubusercontent.com/raid35/Arab/main/MBC.m3u
 
