@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="Bein-Drama-1" tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/Drama_Stacked_nov_2024_200x200.png" group-title="BeIN ⭐ Entertainment (FHD)",Bein-Drama-1
+https://blcco.linkip.org:443/live/703_.m3u8
+#EXTINF:-1 tvg-name="BoxOffice_1" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/BoxOffice1_DIGITAL_Mono.png" group-title="BeIN ⭐ Entertainment (FHD)",BoxOffice 1
+https://blcco.linkip.org:443/live/666_.m3u8
+#EXTINF:-1 tvg-name="BoxOffice_2" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/BoxOffice2_DIGITAL_Mono.png.png" group-title="BeIN ⭐ Entertainment (FHD)",BoxOffice 2
+https://blcco.linkip.org:443/live/664_.m3u8
+#EXTINF:-1 tvg-name="Bein-Movies-1" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/MOVIES1_PREMIERE_DIGITAL_Mono.png" group-title="BeIN ⭐ Entertainment (FHD)",Bein-Movies-1
+https://blcco.linkip.org:443/live/667_.m3u8
+#EXTINF:-1 tvg-name="Bein-Movies-2" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/MOVIES2_ACTION_DIGITAL_Mono.png" group-title="BeIN ⭐ Entertainment (FHD)",Bein-Movies-2
+https://blcco.linkip.org:443/live/663_.m3u8
+#EXTINF:-1 tvg-name="Bein-Movies-3" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/MOVIES3_DRAMA_DIGITAL_Mono.png" group-title="BeIN ⭐ Entertainment (FHD)",Bein-Movies-3
+https://blcco.linkip.org:443/live/662_.m3u8
+#EXTINF:-1 tvg-name="Bein-Movies-4" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/MOVIES4_FAMILY_DIGITAL_Mono.png" group-title="BeIN ⭐ Entertainment (FHD)",Bein-Movies-4
+https://blcco.linkip.org:443/live/665_.m3u8
