@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Bein-Drama-1" tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/Drama_Stacked_nov_2024_200x200.png" group-title="BeIN ⭐ Entertainment (FHD)",Bein-Drama-1
-http://pro.netmos.ovh:7355/live/31534790410213067/U09ZEDdu@6X!PeD/158942.ts
+https://alok.mohamedabomalek632.workers.dev:443/60.ts
 #EXTINF:-1 tvg-id="osnyahalaae" tvg-name="AR+ | OSN Ya HALA " tvg-logo="https://content.osn.com/logo/channel/cropped/OYH.png" group-title="ARABIC+",AR+ | OSN Ya HALA
-http://pro.netmos.ovh:7355/live/31534790410213067/U09ZEDdu@6X!PeD/257517.ts
+https://alok.mohamedabomalek632.workers.dev:443/100.ts
 #EXTINF:-1 tvg-id="osnyahalaaloulaen.ae" tvg-name="AR+ | OSN YA HALA BIL ARABY " tvg-logo="https://content.osn.com/logo/channel/cropped/OYA.png" group-title="ARABIC+",AR+ | OSN YA HALA BIL ARABY
 http://pro.netmos.ovh:7355/live/31534790410213067/U09ZEDdu@6X!PeD/257518.ts
 #EXTINF:-1 tvg-id="osnyahalacinimaae" tvg-name="AR+ | OSN YA HALA AFLAM " tvg-logo="https://content.osn.com/logo/channel/cropped/OYC.png" group-title="ARABIC+",AR+ | OSN YA HALA AFLAM
@@ -24,17 +24,17 @@ http://pro.netmos.ovh:7355/live/31534790410213067/U09ZEDdu@6X!PeD/158955.ts
 #EXTINF:-1 tvg-name="BoxOffice_2" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/BoxOffice2_DIGITAL_Mono.png.png" group-title="BeIN ⭐ Entertainment (FHD)",BoxOffice 2
 http://pro.netmos.ovh:7355/live/31534790410213067/U09ZEDdu@6X!PeD/158956.ts
 #EXTINF:-1 tvg-name="Bein-Movies-1" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/MOVIES1_PREMIERE_DIGITAL_Mono.png" group-title="BeIN ⭐ Entertainment (FHD)",Bein-Movies-1
-http://pro.netmos.ovh:7355/live/31534790410213067/U09ZEDdu@6X!PeD/158917.ts
+https://alok.mohamedabomalek632.workers.dev:443/54.ts
 #EXTINF:-1 tvg-name="Bein-Movies-2" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/MOVIES2_ACTION_DIGITAL_Mono.png" group-title="BeIN ⭐ Entertainment (FHD)",Bein-Movies-2
-http://pro.netmos.ovh:7355/live/31534790410213067/U09ZEDdu@6X!PeD/158918.ts
+https://alok.mohamedabomalek632.workers.dev:443/55.ts
 #EXTINF:-1 tvg-name="Bein-Movies-3" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/MOVIES3_DRAMA_DIGITAL_Mono.png" group-title="BeIN ⭐ Entertainment (FHD)",Bein-Movies-3
-http://pro.netmos.ovh:7355/live/31534790410213067/U09ZEDdu@6X!PeD/158919.ts
+https://alok.mohamedabomalek632.workers.dev:443/56.ts
 #EXTINF:-1 tvg-name="Bein-Movies-4" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/MOVIES4_FAMILY_DIGITAL_Mono.png" group-title="BeIN ⭐ Entertainment (FHD)",Bein-Movies-4
-http://pro.netmos.ovh:7355/live/31534790410213067/U09ZEDdu@6X!PeD/158920.ts
+https://alok.mohamedabomalek632.workers.dev:443/57.ts
 #EXTINF:-1 tvg-name="beIN.SERIES 1" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/SERIES1_DIGITAL_Mono.png" group-title="BeIN ⭐ Entertainment (265)",beIN.SERIES 1
-http://pro.netmos.ovh:7355/live/31534790410213067/U09ZEDdu@6X!PeD/158921.ts
+https://alok.mohamedabomalek632.workers.dev:443/58.ts
 #EXTINF:-1 tvg-name="beIN.SERIES 2" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/SERIES2_DIGITAL_Mono.png" group-title="BeIN ⭐ Entertainment (265)",beIN.SERIES 2
-http://pro.netmos.ovh:7355/live/31534790410213067/U09ZEDdu@6X!PeD/10153.ts
+https://alok.mohamedabomalek632.workers.dev:443/59.ts
 #EXTINF:-1 tvg-id="osnsactionen.ae" tvg-name="AR+ | OSN MOVIES ACTION" tvg-logo="https://content.osn.com/logo/channel/cropped/AHD.png" group-title="ARABIC+",AR+ | OSN MOVIES ACTION
 http://pro.netmos.ovh:7355/live/31534790410213067/U09ZEDdu@6X!PeD/257528.ts
 #EXTINF:-1 tvg-id="osnmoviesen.ae" tvg-name="AR+ | OSN MOVIES HOLLYWOOD " tvg-logo="https://content.osn.com/logo/channel/cropped/OPR.png" group-title="ARABIC+",AR+ | OSN MOVIES HOLLYWOOD
