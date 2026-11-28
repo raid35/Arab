@@ -64,4 +64,6 @@ http://prof.gamerdz1517.com/live/anti-samsar/gamerdz1517/49566.m3u8
 http://asmr4k.pro:8080/live/3146007635/5780662145/1002898.m3u8
 http://pro.netmos.ovh:7355/live/31534790410213067/U09ZEDdu@6X!PeD/147746.ts
 #EXTINF:-1 tvg-id="" tvg-name="DZ | ALGERIAN 4KIDS" tvg-logo="https://4kids-tv.com/wp-content/uploads/2024/07/logo1-4kids-1.png" group-title="ALGERIA |A| ",DZ | ALGERIAN 4KIDS
-http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:49:14:81&stream=798773&extension=ts
+#EXTVLCOPT:http-referrer=https://filemars.net/embed/ysagetp2j4x
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Mobile Safari/537.36
+https://4n841w.awqb0f40a9yo.net:8443/hls/ysagetp2j4x.m3u8?s=YTvZa8UJr8Gtw1hty7RbnA&e=1795893726
