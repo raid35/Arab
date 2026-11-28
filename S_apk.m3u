@@ -40,20 +40,17 @@ https://raw.githubusercontent.com/raid35/bein/main/shahid_SPORT.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Thmanayh" tvg-logo="http://tv.asc.vg/shahid.sport.png",group-title="Thmanayh", Thmanayh
 https://raw.githubusercontent.com/raid35/bein/main/thmanyah.m3u
 
+#EXTINF:-1 tvg-id="ALWAN" tvg-name="|VIP| SKY TNT" tvg-logo="https://i.ibb.co.com/7dNPfNGB/Tntsports1.png",group-title="|VIP| SKY TNT",|VIP| SKY TNT
+https://raw.githubusercontent.com/raid35/europe/main/VIP_UK
+
 #EXTINF:-1 tvg-id="" tvg-name="|VIP| SPORT_UROP" tvg-logo="https://i.top4top.io/p_3740rzbk81.png", group-title="|VIP| SPORT_UROP", |VIP| SPORT_UROP
 https://raw.githubusercontent.com/raid35/europe/main/SPORT_UROP.m3u
-
-#EXTINF:-1 tvg-id="" tvg-name="SPORT EUROPE" tvg-logo="https://i.top4top.io/p_3740rzbk81.png",  group-title="SPORT EUROPE",  EUROPE SPORT
-https://raw.githubusercontent.com/raid35/channel-links/main/gremani.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="AL-FAJER TV" tvg-logo="https://images.seeklogo.com/logo-png/21/2/pray-for-palestine-logo-png_seeklogo-210796.png",group-title="AL-FAJER TV", AL-FAJER TV
 https://raw.githubusercontent.com/raid35/channel-links/main/palestine.m3u
 
 #EXTINF:-1 tvg-id="ALWAN" tvg-name="|NO| VAIPLAY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKXdpNxVMmebCmamkw_YdD_x8NS4FoDpgF7qbiQwkZGg&s=10",group-title="|NO| VAIPLAY",|NO| VAIPLAY
 https://raw.githubusercontent.com/raid35/europe/main/viaplay.m3u
-
-#EXTINF:-1 tvg-id="ALWAN" tvg-name="|ES| M+" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CHAPIO.png",group-title="|ES| M+",|ES| M+
-https://raw.githubusercontent.com/raid35/europe/main/M%2B.m3u
 
 #EXTINF:-1 tvg-id="ALWAN" tvg-name="|POR| SPORT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-hKLhjb38FvNufxyxTRAVnX6VM69nwJ8LP6WOFWnR3A&s=10",group-title="|POR| SPORT",|POR| SPORT
 https://raw.githubusercontent.com/raid35/europe/main/POR_SP.m3u
@@ -140,4 +137,4 @@ https://raw.githubusercontent.com/raid35/myCANAL/main/Docs-fr.m3u
 https://raw.githubusercontent.com/raid35/Arab/main/NEWS
 
 #EXTINF:-1 tvg-id="" tvg-name="sport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVTCmMu7aWMdwkRk6gWVvd4fOT73yq7su82t735HmuCA&s=10",group-title="sport",sport
-https://raw.githubusercontent.com/raid35/bein/main/testch.m3u
+https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/Sports_data.m3u
